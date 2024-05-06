@@ -1,5 +1,6 @@
 def standards_maker():
-    # ✅↓ Write your code here ↓✅
+    for _ in range(300):  
+        print("I will ask questions if I am stuck")
 
-
-# ✅↓ remember to call the function outside (here) ↓✅
+# ✅↓ Call the function here ↓✅
+standards_maker() 
